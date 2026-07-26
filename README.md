@@ -2,46 +2,77 @@
 Business Intelligence analysis of Superstore sales using SQL and Microsoft Power BI with interactive dashboard and business insights.
 # 📊 Business Intelligence Analysis of Superstore Sales
 
-## 📖 Project Overview
-
-This project analyzes the Sample Superstore dataset using SQL and Microsoft Power BI to generate business insights that support data-driven decision-making.
-
-The project demonstrates practical business intelligence techniques including SQL querying, sales analysis, profitability analysis, customer analysis, regional performance evaluation, and interactive dashboard development.
+A complete Business Intelligence project that analyzes retail sales data using **SQL** and **Microsoft Power BI** to generate actionable business insights and support data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
+# 📌 Project Overview
 
-- Analyze sales performance
-- Identify profitable products and categories
-- Evaluate regional sales performance
-- Analyze customer purchasing behavior
-- Examine shipping performance
+This project explores the Sample Superstore dataset through SQL queries and an interactive Power BI dashboard. The analysis focuses on sales performance, profitability, customer behavior, regional performance, shipping methods, and product categories.
+
+The project demonstrates the complete business intelligence workflow, from querying raw data to presenting insights through an interactive dashboard.
+
+---
+
+# 🎯 Project Objectives
+
+- Analyze overall sales performance
+- Identify the most profitable product categories
+- Evaluate regional sales and profit
+- Examine customer purchasing behavior
+- Analyze shipping methods
 - Build an interactive Power BI dashboard
-- Generate business recommendations
+- Generate business recommendations based on findings
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠️ Tools & Technologies
 
-- SQL
+- Microsoft SQL Server / SQL
 - Microsoft Power BI
 - Microsoft Excel
-- Visual Studio Code
+- Microsoft Word
 
 ---
 
-## 📂 Project Files
+# 📂 Repository Structure
 
-- 📄 Research Report
-- 💻 SQL Queries
-- 📊 Power BI Dashboard
-- 📈 Dashboard Screenshots
-- 📁 Sample Superstore Dataset
+```
+Superstore-SQL-PowerBI-Analysis
+│
+├── dashboard
+│   ├── superstore-dashboard.pbix
+│   └── dashboard-preview.png
+│
+├── report
+│   ├── research-report.pdf
+│   └── research-report.docx
+│
+├── sql
+│   └── sql-queries.sql
+│
+├── data
+│   └── sample-superstore.xlsx
+│
+└── README.md
+```
 
 ---
 
-## 📊 Dashboard Features
+# 📊 Dashboard Preview
+
+# 📊 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard/dashboard-p3.png" width="900">
+</p>
+```markdown
+![Dashboard](dashboard/dashboard-p3.png)
+```
+
+---
+
+# 📈 Dashboard Features
 
 - Total Sales KPI
 - Total Profit KPI
@@ -56,36 +87,89 @@ The project demonstrates practical business intelligence techniques including SQ
 
 ---
 
-## 🔍 Key Insights
+# 📊 SQL Skills Demonstrated
 
-- Technology generated the highest sales.
-- Sales and profitability varied across regions.
-- Customer purchasing patterns differed significantly.
-- Profitability was influenced by discounts and product mix.
-- Interactive dashboards improved business insight and reporting.
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MAX()
+- MIN()
+- LIMIT
+- ROUND()
+- Aliases (AS)
 
 ---
 
-## 💡 Business Recommendations
+# 📌 Business Insights
 
-- Focus on high-performing product categories.
-- Improve low-performing products.
-- Monitor profitability alongside sales.
-- Develop region-specific strategies.
-- Strengthen customer retention.
-- Optimize inventory management.
-- Improve shipping operations.
+- Technology generated the highest sales among all product categories.
+- Sales performance differed significantly across regions.
+- Customer purchasing behavior varied among customer segments.
+- Profitability was considerably lower than total sales, highlighting the importance of cost management.
+- Monthly sales trends revealed seasonal fluctuations in demand.
+- Shipping methods influenced logistics performance and customer service.
+
+---
+
+# 💡 Business Recommendations
+
+- Invest in high-performing product categories.
+- Improve the performance of low-selling products.
+- Focus on profitability alongside revenue growth.
+- Develop region-specific marketing strategies.
+- Strengthen customer retention programs.
+- Improve inventory management.
+- Optimize shipping operations.
 - Promote data-driven decision-making.
 
 ---
 
-## 👩‍💻 Author
+# 📊 Project Statistics
+
+| Item | Value |
+|------|------|
+| Dataset | Sample Superstore |
+| Records | 9,994 |
+| Dashboard KPIs | 4 |
+| Dashboard Visualizations | 6 |
+| SQL Queries | 25+ |
+| Project Type | Business Intelligence |
+
+---
+
+# 🚀 Skills Demonstrated
+
+- Business Intelligence
+- Data Analytics
+- SQL
+- Power BI
+- Dashboard Development
+- Data Visualization
+- Business Reporting
+- Data Cleaning
+- Sales Analysis
+- Profitability Analysis
+
+---
+
+# 🎓 Academic Context
+
+This project was completed as an **independent data analytics portfolio project** to strengthen practical skills in SQL, Power BI, and business intelligence.
+
+---
+
+# 👩‍💻 Author
 
 **Tooba Khalil**
 
-BS Economics  
+🎓 BS Economics  
 Government College University Lahore
 
 ---
 
-⭐ If you found this project useful, feel free to explore the repository.
+⭐ If you found this project interesting, feel free to explore the repository.
