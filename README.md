@@ -64,10 +64,10 @@ Superstore-SQL-PowerBI-Analysis
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/dashboard-p3.png" width="900">
+  <img src="Dashboard/Dashboard-p3.png" width="900">
 </p>
 ```markdown
-![Dashboard](dashboard/dashboard-p3.png)
+![Dashboard](Dashboard/Dashboard-p3.png)
 ```
 
 ---
