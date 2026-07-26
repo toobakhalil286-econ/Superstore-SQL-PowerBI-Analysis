@@ -59,12 +59,9 @@ Superstore-SQL-PowerBI-Analysis
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="Dashboard%20p3.png" width="900">
-</p>
-
+![Dashboard Preview](dashboard-preview.png)
 ---
 
 # 📈 Dashboard Features
